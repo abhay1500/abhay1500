@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhay Kumar</h1>
-<h3 align="center">I am a Java developer with command in Java development and Spring Boot, as well as a strong foundation in coding and design principles.</h3>
+<h3 align="center">I am a Security Engineer professional with one year of hands-on experience, known for rapid learning and thriving in fast-paced and team-driven environment. Proven agility in staying abreast of evolving security trends, coupled with robust analytical skills, ensuring effective problem-solving. A dedicated team player committed to delivering exceptional customer satisfaction through collaborative efforts, as well as a foundation in coding and design principles.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhay1500&label=Profile%20views&color=0e75b6&style=flat" alt="abhay1500" /> </p>
 
